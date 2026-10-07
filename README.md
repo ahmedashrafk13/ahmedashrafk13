@@ -15,7 +15,7 @@ I build ML systems that are measured honestly and AI agents that do real work: c
 ### 🧠 What I do
 
 - **Data Science / ML:** model comparisons with multi-seed runs, calibration, and explainability (Grad-CAM), not just one accuracy number
-- **Agentic AI:** LLM agents with tool use, multi-step workflows, and Claude Code skills/plugins that automate SEO audits, lead qualification, and research
+- **Agentic AI:** LLM agents with tool use, multi-step workflows, and Claude Code skills/plugins that automate business processes.
 - **Shipping:** FastAPI / Gradio / Streamlit demos, ONNX quantization, Docker-ready services
 
 ---
